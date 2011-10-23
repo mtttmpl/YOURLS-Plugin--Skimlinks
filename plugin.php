@@ -3,7 +3,7 @@
 Plugin Name: Skimlinks
 Plugin URI: http://www.mattytemple.com
 Description:  Push shortened URLS through Skimlinks for affiliate advertising
-Version: 1.0
+Version: 1.1
 Author: Matt Temple
 Author URI: http://www.mattytemple.com
 */
