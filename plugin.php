@@ -18,7 +18,7 @@ function matt_skim( $args ) {
         
         // Build URL
         $encoded = urlencode($url);
-		$skimurl = "http://YOURDOMAIN/?id=YOURID&url="; //if you do not have a custom domain use redirect.skimlinks.com
+		$skimurl = "http://YOURDOMAIN/?id=YOURID&xs=1&url="; //if you do not have a custom domain use redirect.skimlinks.com
 		$finalurl = $skimurl . $encoded;
 		
 		// Go
