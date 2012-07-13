@@ -13,6 +13,6 @@ SETUP AND INSTALL
 You can test if it works by entering one of your short URLS on longurl.org
 and expanding the redirect details.
 
-This plugin requires YOURLS 1.5 (http://yourls.org) or higher and a
-Skimlinks account. If you don't have a Skimlinks account sign up
-here - http://matt.mx/skimlinks
+This plugin requires YOURLS 1.5 (http://yourls.org) or higher (tested
+against YOURLS SVN r728) and a Skimlinks account. If you don't have a
+Skimlinks account sign up here - http://matt.mx/skimlinks
